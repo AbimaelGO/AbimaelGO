@@ -3,7 +3,7 @@
 
 <h1 align="center">¡Hola! 👋, Soy Abimael</h1> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Abple" />
+  <img src="https://raw.githubusercontent.com/Abple/Abple/master/name.svg" alt="Abple" />
 </h1>
 <h3 align="center">Trabajo actualmente con Back y Front</h3>
 <p align="center">Falta por escribir...🛠️</p>
